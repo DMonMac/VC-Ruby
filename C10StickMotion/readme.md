@@ -8,21 +8,21 @@ Create a simple documentation or a readme file.
 This gem shows some animations of stick men.
 
 #### Installation
-##### File Needed:
+File Needed:
 - c10StickMotion-0.0.1.gem
 
-##### In PowerShell:
+In PowerShell:
 - Type `gem install c10StickMotion-0.0.1.gem`
 
 #### Usage
-##### In PowerShell:  
+In PowerShell:  
 ````
 > irb
     > require 'c10StickMotion'
 ````
 Now you can type in the commands (shown below) and see the animations.
 
-##### Commands:
+Commands:
 - `Stick.side_to_side`
 - `Stick.gymnastics`
 - `Stick.cartwheel`

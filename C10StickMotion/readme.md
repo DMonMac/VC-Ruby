@@ -7,14 +7,14 @@ Create a simple documentation or a readme file.
 ### THE GEM
 This gem shows some animations of stick men.
 
-#### Installation
+### Installation
 File Needed:
 - c10StickMotion-0.0.1.gem
 
 In PowerShell:
 - Type `gem install c10StickMotion-0.0.1.gem`
 
-#### Usage
+### Usage
 In PowerShell:  
 ````
 > irb

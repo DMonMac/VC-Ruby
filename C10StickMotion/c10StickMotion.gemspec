@@ -21,3 +21,4 @@ end
 # Available commands:
 # Stick.side_to_side
 # Stick.gymnastics
+# Stick.cartwheel

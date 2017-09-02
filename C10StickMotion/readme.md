@@ -1,7 +1,7 @@
 ## **[![RUBY](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/LogoRuby2.png "Ruby")](https://www.ruby-lang.org/en/) VIVIXX CHALLENGES:** **_c10StickMotion_**
 
 ### THE CHALLENGE  
->  Build your own gem... own it!
+>  Build your own gem... own it!  
 Create a simple documentation or a readme file.
 
 ### THE GEM

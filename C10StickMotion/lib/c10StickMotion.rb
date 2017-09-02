@@ -1,4 +1,4 @@
-class Animation
+class Stick
   def self.side_to_side
     @ctr=0
     loop do
@@ -387,6 +387,3 @@ class Animation
     end
   end
 end
-
-
-Animation.cartwheel

@@ -1,0 +1,43 @@
+Ruby:
+C1 & C2: Auto Cashier
+Make it so that the owner of the restaurant can name his restaurant, create his own menu, and run it to see how it looks [yeah, i know, but still], oh yeah, don't forget the receipt. aditionally, try to make an inventory system too.
+
+C3: Vivixx elections
+make it possible to add candidates and or voters
+try to see if you can make it that only registered voters can vote
+also make sure they can only vote once
+
+C4: ATM
+if anything, try to know the functions of an atm
+give option to change pin
+give option to add account
+give option to deposit to another account
+study masking [where the input is shown as something else]
+make it loop always so that the data can be stored [of course this is cheating]
+ 
+the car app [the 3 challenges that needed this]...uhh well, i'm stumped, just add whatever you think is awesome
+
+
+csv....CSV!!!
+For challenges not unsing class, use class. For C7 create a test first, then an implementation program. The CYOA_Test is a joke.
+The planner is your alternate for cyoa.
+
+
+HTML/CSS:
+Clone Forget What Did
+
+Apply LWT to the css zen garden .... you can do this
+
+
+RubyOnRails:
+Twitter clone - try to copy the twitter format, reverse the colors of twitter, and mirror the entire website.
+
+AirBnB - well, try to really clone it first functionality-wise
+
+
+JavaScript:
+w3resource - make a page with the resuls of the exercises working
+
+PianoKit - make it look like a piano and make the clock look like a clock
+
+ATM - well, make it work.

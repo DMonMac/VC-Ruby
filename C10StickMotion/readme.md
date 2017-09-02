@@ -1,38 +1,32 @@
-           _   _ _____ __  __       _______ _____ ____  _   _  _____ 
-     /\   | \ | |_   _|  \/  |   /\|__   __|_   _/ __ \| \ | |/ ____|
-    /  \  |  \| | | | | \  / |  /  \  | |    | || |  | |  \| | (___  
-   / /\ \ | . ` | | | | |\/| | / /\ \ | |    | || |  | | . ` |\___ \ 
-  / ____ \| |\  |_| |_| |  | |/ ____ \| |   _| || |__| | |\  |____) |
- /_/    \_\_| \_|_____|_|  |_/_/    \_\_|  |_____\____/|_| \_|_____/ 
-                                                                     
-                                                                     
-Hi!
+## **[![RUBY](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/LogoRuby2.png "Ruby")](https://www.ruby-lang.org/en/) VIVIXX CHALLENGES:** **_c10StickMotion_**
 
-So this is a small gem that shows some animations. Well just 2 for now.
+### THE CHALLENGE  
+>  Build your own gem... own it!
+Create a simple documentation or a readme file.
 
-Here are some things you need:
- Files:
-   c10animation-0.0.1.gem
-How to install:
- - In PowerShell:
-   -Type 'gem install c10animation-0.0.1.gem'
+### THE GEM
+This gem shows some animations of stick men.
 
+#### Installation
+##### File Needed:
+- c10StickMotion-0.0.1.gem
 
-How to Use:
- - In PowerShell:
-   - Type 'irb'
-   - Type " require 'c10animation' "
-	
-	*Available commands:
-		Animation.side_to_side
-		Animation.gymnastics
-	
+##### In PowerShell:
+- Type `gem install c10StickMotion-0.0.1.gem`
 
-	* Oh yeah, the animations loop for 5 rounds. so it'll stop eventaully.
+#### Usage
+##### In PowerShell:  
+````
+> irb
+    > require 'c10StickMotion'
+````
+Now you can type in the commands (shown below) and see the animations.
 
-I'll add more animations soon...well sort of. Probably best not to hope too much.
+##### Commands:
+- `Stick.side_to_side`
+- `Stick.gymnastics`
+- `Stick.cartwheel`
 
+> Animations loop for 5 rounds, so it'll stop eventually.
 
-
-
-
+#### More animations to come...

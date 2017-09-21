@@ -1,4 +1,4 @@
-## **[![RUBY](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/LogoRuby2.png "Ruby")](https://www.ruby-lang.org/en/) VIVIXX CHALLENGES:** **_VOTING MACHINE_**
+## **[![RUBY](https://user-images.githubusercontent.com/29721601/30624638-2d170a16-9df1-11e7-8c3a-b0753abdd5cd.png "Ruby")](https://www.ruby-lang.org/en/) VIVIXX CHALLENGES:** **_VOTING MACHINE_**
 
 ### THE CHALLENGE  
 > The new country of Vivixx has decided to hold an election! They will be choosing their first ever president. With what you have learned, can you help them to help in the voting process?  

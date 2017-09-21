@@ -8,11 +8,11 @@ This program acts as an ATM with some of the functions expected of an ATM. I wis
 
 #### Welcome to BPI!
 
-![](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/VCRATM/VCRATM01.png)
+![](https://user-images.githubusercontent.com/29721601/30681823-b9bdc4a8-9ed9-11e7-9b2e-e351981823f7.png)
 
 After pressing 'Enter' on the opening screen, you will be asked for a 4-digit PIN number. Two have been provided in the next section so feel free to use any of them.
 
-![](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/VCRATM/VCRATM02.png)
+![](https://user-images.githubusercontent.com/29721601/30681824-b9be157a-9ed9-11e7-88fb-e46742c73ebb.png)
 
 #### Accounts
 In order to try out the program, here are details for the 2 accounts you can use:
@@ -34,28 +34,28 @@ Once you enter a correct pin, you will be brought to the 'TRANSACTIONS' screen w
 #### 1. Inquire Balance
 This displays how much money is left in the account.
 
-![](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/VCRATM/VCRATM04.png)
+![](https://user-images.githubusercontent.com/29721601/30681832-bb9b67d0-9ed9-11e7-9570-f59a1d046ca5.png)
 
 #### 2. Withdraw
 
-![](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/VCRATM/VCRATM06.png)
+![](https://user-images.githubusercontent.com/29721601/30681830-bb8f5dc8-9ed9-11e7-9a69-f75329151498.png)
 
 After withdrawing, you'll be able to see your previous balance, how much you withdrew, and how much is left in the account.
 
-![](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/VCRATM/VCRATM07.png)
+![](https://user-images.githubusercontent.com/29721601/30681831-bb918990-9ed9-11e7-96ca-5edcaa0f133d.png)
 
 I you choose 'Inquire Balance' again, you'll notice that it will display the same current balance as was in the 'Withdraw' screen.
 
-![](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/VCRATM/VCRATM08.png)
+![](https://user-images.githubusercontent.com/29721601/30681829-bb8f1db8-9ed9-11e7-9bf7-11e435e51713.png)
 
 #### 3. Deposit
 The deposit screen is pretty much the same as the 'Withdraw' screen, only that you add money to your account rather than get from it.
 
-![](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/VCRATM/VCRATM09.png)
+![](https://user-images.githubusercontent.com/29721601/30681828-bb8ee9f6-9ed9-11e7-901d-47e86c908e14.png)
 
 And if you 'Inquire Balance' again:
 
-![](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/VCRATM/VCRATM10.png)
+![](https://user-images.githubusercontent.com/29721601/30681833-bba903d6-9ed9-11e7-82fe-af8338b5f64d.png)
 
 #### 4. Change Pin  
 
@@ -63,11 +63,11 @@ And if you 'Inquire Balance' again:
 
 You'll have to enter the old PIN first before you can change to a new PIN.
 
-![](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/VCRATM/VCRATM11.png)
+![](https://user-images.githubusercontent.com/29721601/30681837-be732538-9ed9-11e7-9f45-58a51ca4b857.png)
 
 The program will now return to the opening screen. Now, if you enter your old pin, it should be incorrect.
 
-![](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/VCRATM/VCRATM12.png)
+![](https://user-images.githubusercontent.com/29721601/30681836-be71fa64-9ed9-11e7-821f-0674f4ffa97e.png)
 
 If you try the new pin, you should be able to access the 'TRANSACTIONS' screen.
 
@@ -78,20 +78,20 @@ You may want to visit the "[Accounts](#accounts)" section again to view the Acco
 
 Consider the initial balances of the 2 accounts available. Let's use the richer account for the fund transfer.
 
-![](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/VCRATM/VCRATM13.png)
+![](https://user-images.githubusercontent.com/29721601/30681840-be74e4e0-9ed9-11e7-9856-7c606dda2fd4.png)
 
 Here, 50,000 PhP was transferred to the other account. Let's check the current balance to see if the transfer really took place:
 
-![](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/VCRATM/VCRATM14.png)
+![](https://user-images.githubusercontent.com/29721601/30681838-be739c34-9ed9-11e7-948b-cba6c3aab13b.png)
 
 If we open the other account and 'Inquire Balance', 50,000 PhP should've been added to the account.
 
-![](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/VCRATM/VCRATM15.png)
+![](https://user-images.githubusercontent.com/29721601/30681839-be742852-9ed9-11e7-8454-3dafa0b3abe5.png)
 
 #### 6. Exit
 After every transaction (except Change PIN), you will be asked if you would like to make another transaction. Choosing 'No' will display the exit screen, which is what is also shown when pressing '6'.
 
-![](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/VCRATM/VCRATM16.png)
+![](https://user-images.githubusercontent.com/29721601/30681843-c0e986ae-9ed9-11e7-9ad8-5cb5b918ecbd.png)
 
 #### Notes
 - For the 'Change PIN' function, if you tried to change your PIN to one that's being used by another account, you won't be able to. I understand that this is not a good idea as it will allow another user to know another user's PIN. It was just designed that way here so that there won't be a conflict with the accounts when trying to input the PIN.

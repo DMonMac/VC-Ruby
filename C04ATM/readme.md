@@ -1,4 +1,4 @@
-## **[![RUBY](http://i1202.photobucket.com/albums/bb362/tremor221/Vivixx/VCR/LogoRuby2.png "Ruby")](https://www.ruby-lang.org/en/) VIVIXX CHALLENGES:** **_ATM_**
+## **[![RUBY](https://user-images.githubusercontent.com/29721601/30624638-2d170a16-9df1-11e7-8c3a-b0753abdd5cd.png "Ruby")](https://www.ruby-lang.org/en/) VIVIXX CHALLENGES:** **_ATM_**
 
 ### THE CHALLENGE  
 > Joseph is in a rush to make a really important purchase. He has no money on him so he has gone to withdraw money from BPI but has found that there are serious issues with their systems! Can you reprogram the atm so he can buy his romance novel?"

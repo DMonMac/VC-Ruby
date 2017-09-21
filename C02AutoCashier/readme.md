@@ -1,4 +1,4 @@
-## **[![RUBY](https://user-images.githubusercontent.com/29721601/30624638-2d170a16-9df1-11e7-8c3a-b0753abdd5cd.png)](https://www.ruby-lang.org/en/) VIVIXX CHALLENGES:** **_AUTOMATED CASHIER_**
+## **[![RUBY](https://user-images.githubusercontent.com/29721601/30624638-2d170a16-9df1-11e7-8c3a-b0753abdd5cd.png "Ruby")](https://www.ruby-lang.org/en/) VIVIXX CHALLENGES:** **_AUTOMATED CASHIER_**
 
 ### THE CHALLENGE  
 > William runs a small resturant here in Baguio. He has been looking for ways to cut costs and has realised that his largest expense is Michael, his cashier. You are to use what you have learned to try and help William reduce the costs in his business.
